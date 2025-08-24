@@ -1,0 +1,12 @@
+node_modules/
+package-lock.json
+.env
+.env.*
+api/.env
+client/.env
+dist/
+client/dist/
+coverage/
+*.log
+.DS_Store
+Thumbs.db
